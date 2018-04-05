@@ -1,0 +1,1 @@
+My Examples of using the Spring Frameworks using the different configuration methods for setting up a project. One with only annotations, one with using XML, and a last with using POJOs.
